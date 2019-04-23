@@ -13,16 +13,20 @@ Main features are:
 10/24 ASTex available on [github](https://github.com/ASTex-ICube/ASTex)
 10/27 Continuous integration online develop branch of github repository
 
-# Contributors and contact
+# Managers, contributors and contact
 The library is developed in the [IGG](http://icube-igg.unistra.fr/en/index.php/Main_Page) team of the [ICube](https://icube.unistra.fr/) laboratory of Strasbourg.
 
-The contributors are:
+Resarch manager:
+- [Basile Sauvage](http://icube-igg.unistra.fr/en/index.php/Basile_Sauvage)
+
+Technical manager:
+- [Sylvain Thery](http://icube-igg.unistra.fr/en/index.php/Utilisateur:Thery)
+
+Contributors:
 - [Rémi Allegre](http://igg.unistra.fr/People/allegre/)
 - [Jean-Michel Dischler](http://dpt-info.u-strasbg.fr/~dischler/)
 - Geoffrey Guingo
 - Frédéric Larue
-- [Basile Sauvage](http://icube-igg.unistra.fr/en/index.php/Basile_Sauvage)
-- [Sylvain Thery](http://icube-igg.unistra.fr/en/index.php/Utilisateur:Thery)
 
 [email contact](mailto:astex@icube.unistra.fr)
 
