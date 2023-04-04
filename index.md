@@ -27,6 +27,8 @@ Contributors:
 - [Jean-Michel Dischler](http://dpt-info.u-strasbg.fr/~dischler/)
 - Geoffrey Guingo
 - Frédéric Larue
+- Nicolas Lutz
+- Pascal Guehl
 
 [email contact](mailto:astex@icube.unistra.fr)
 
